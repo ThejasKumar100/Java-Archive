@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ApproximatePI
+comment1.params=a
+comment1.target=boolean\ isPositive(int)
+comment10.params=s
+comment10.target=void\ printDiagonal(java.lang.String)
+comment11.params=iterations
+comment11.target=double\ approximatePI(int)
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=a
+comment2.target=boolean\ isOdd(int)
+comment3.params=a\ b
+comment3.target=int\ getMax(int,\ int)
+comment4.params=
+comment4.target=int\ rollDice()
+comment5.params=a
+comment5.target=int\ rollDiceMore(int)
+comment6.params=name
+comment6.target=java.lang.String\ capitalizeFirst(java.lang.String)
+comment7.params=radius
+comment7.target=double\ circleArea(double)
+comment8.params=a\ b
+comment8.target=boolean\ isMultiple(int,\ int)
+comment9.params=time\ isMinutes
+comment9.target=java.lang.String\ convertTime(double,\ boolean)
+numComments=13

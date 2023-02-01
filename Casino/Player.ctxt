@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=n\ w
+comment1.target=Player(java.lang.String,\ double)
+comment2.params=
+comment2.target=boolean\ broke()
+numComments=3

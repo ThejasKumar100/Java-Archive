@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=pName
+comment1.target=Player(java.lang.String)
+comment2.params=
+comment2.target=void\ takeTurn()
+numComments=3

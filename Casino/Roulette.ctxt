@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Roulette
+comment1.params=
+comment1.target=Roulette()
+comment2.params=bet
+comment2.target=double\ placeBet(double)
+numComments=3

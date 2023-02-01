@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PigGame
+comment1.params=goalPoints
+comment1.target=PigGame(int)
+comment2.params=
+comment2.target=void\ play()
+comment3.params=
+comment3.target=void\ printIntructions()
+numComments=4

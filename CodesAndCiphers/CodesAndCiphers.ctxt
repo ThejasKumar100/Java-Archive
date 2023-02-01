@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CodesAndCiphers
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=s
+comment2.target=java.lang.String\ encrypt(java.lang.String)
+comment3.params=s
+comment3.target=java.lang.String\ decrypt(java.lang.String)
+comment4.params=s
+comment4.target=java.lang.String\ encrypt2(java.lang.String)
+comment5.params=s
+comment5.target=java.lang.String\ decrypt2(java.lang.String)
+comment6.params=s\ num
+comment6.target=java.lang.String\ encrypt3(java.lang.String,\ int)
+comment7.params=s\ num
+comment7.target=java.lang.String\ decrypt3(java.lang.String,\ int)
+comment8.params=s
+comment8.target=java.lang.String\ encrypt4(java.lang.String)
+comment9.params=s
+comment9.target=java.lang.String\ decrypt4(java.lang.String)
+numComments=10
