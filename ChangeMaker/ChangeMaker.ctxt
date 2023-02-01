@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ChangeMaker
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=s\ n
+comment10.target=boolean\ containsPrefix(java.lang.String,\ int)
+comment11.params=line
+comment11.target=void\ wordScramble(java.lang.String)
+comment12.params=input
+comment12.target=java.lang.String\ scramble(java.lang.String)
+comment2.params=letter
+comment2.target=boolean\ isLetterA(char)
+comment3.params=s
+comment3.target=boolean\ hasTwoA(java.lang.String)
+comment4.params=letter
+comment4.target=boolean\ isVowel(char)
+comment5.params=s
+comment5.target=int\ numVowels(java.lang.String)
+comment6.params=s\ a\ b
+comment6.target=boolean\ evanChars(java.lang.String,\ char,\ char)
+comment7.params=s\ a
+comment7.target=boolean\ twoInARow(java.lang.String,\ char)
+comment8.params=s
+comment8.target=java.lang.String\ capitalizeVowels(java.lang.String)
+comment9.params=s
+comment9.target=java.lang.String\ longestWord(java.lang.String)
+numComments=13
