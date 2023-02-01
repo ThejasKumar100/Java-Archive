@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Point
+comment1.params=xVal\ yVal
+comment1.target=Point(double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getString()
+numComments=3

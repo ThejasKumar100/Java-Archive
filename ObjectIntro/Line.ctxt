@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Line
+comment1.params=x1\ y1\ x2\ y2
+comment1.target=Line(double,\ double,\ double,\ double)
+comment2.params=p1\ p2
+comment2.target=Line(Point,\ Point)
+comment3.params=
+comment3.target=double\ getSlope()
+comment4.params=
+comment4.target=java.lang.String\ getString()
+numComments=5
